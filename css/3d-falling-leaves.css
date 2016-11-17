@@ -1,0 +1,12 @@
+/*!
+ * 3D Falling Leaves
+ */
+
+.october-leaf {
+position: absolute;
+background-color: transparent;
+background-image: url('../bootstrap_template-cloned/images/leaves.png');
+-webkit-transform: translateZ(0);
+-moz-transform: translateZ(0);
+transform: translateZ(0);
+}
